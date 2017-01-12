@@ -1,3 +1,1 @@
-print("Git test")
-print("new changed")
-print("new version")
+print("Git third commit")
